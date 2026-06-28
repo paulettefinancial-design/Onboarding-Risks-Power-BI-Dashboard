@@ -1,0 +1,11 @@
+Risk,LowImpact,HighImpact,Range,Category,Description
+Scope creep,78,105,27,Planning,Uncontrolled expansion of project scope increases onboarding duration.
+Internal resource constraints,45,68,23,Resourcing,Lack of available internal staff delays onboarding tasks.
+Data quality issues,32,55,23,Data,Incorrect or incomplete data requires cleanup and rework.
+Incomplete documentation,28,47,19,Documentation,Missing or outdated documentation slows onboarding steps.
+Testing defects,20,38,18,Quality,Defects found during testing require fixes and retesting.
+System configuration delays,18,34,16,Technical,Delays in configuring systems extend onboarding timelines.
+Change-management delays,15,30,15,Change Management,Slow adoption or approvals delay onboarding progress.
+Client delays in providing initial data,12,25,13,Client,Client-side delays in sending required data.
+Late client sign-offs,10,22,12,Client,Client approvals arrive late, pushing timelines.
+Vendor dependencies,8,18,10,Vendor,External vendor delays impact onboarding schedule.
